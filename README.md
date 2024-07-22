@@ -8,4 +8,3 @@
 tthanh18/tthanh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/ngtthanh1811"><img src="https://api.daily.dev/devcards/6641c34983654347b8750af68ba67602.png?r=jsy" width="400" alt="Nguyen Thanh's Dev Card"/></a>
